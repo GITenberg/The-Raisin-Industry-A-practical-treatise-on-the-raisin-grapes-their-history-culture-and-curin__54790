@@ -1,5 +1,8 @@
 _repo: The-Raisin-Industry-A-practical-treatise-on-the-raisin-grapes-their-history-culture-and-curin__54790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54790-h/images/cover.jpg
 creator:
   author:
     agent_name: Eisen, Gustavus A.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47232'
     url: http://www.gutenberg.org/2009/agents/47232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54790#The-Raisin-Industry-A-practical-treatise-on-the-raisin-grapes-their-history-culture-and-curin_
 gutenberg_issued: '2017-05-26'
 gutenberg_type: Text
 identifiers:
